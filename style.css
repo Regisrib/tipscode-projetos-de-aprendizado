@@ -1,16 +1,4 @@
-body {
-    background-color: #394867;
-}
-
-h1,h2,h3 {
-    color: #66bfbf;
-}
-
-hr {
-    background-color: white;
-    border-style:none;
-    border-top: dotted;
-    border-color: black;
-    border-width: 5px;
-    width: 5%;
+@charset "UTUF-8";
+header {
+    background-color: #14274e;
 }
