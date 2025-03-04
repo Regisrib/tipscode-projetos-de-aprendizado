@@ -1,4 +1,19 @@
-@charset "UTUF-8";
-header {
+/* ================== Seção Tags =============== */
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+/* ================== Seção Classes ============ */
+
+.top-container {
     background-color: #14274e;
+}
+
+.efeito {
+    text-decoration: underline;
 }
