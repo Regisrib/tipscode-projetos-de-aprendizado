@@ -4,8 +4,7 @@ body {
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
-    font-size: 200%;
-}
+  }
 
 h1 {
     font-size: 5.625rem;
@@ -48,3 +47,23 @@ h2, h3 {
     right: 70%;
     bottom: 1%;
 }
+
+.skill-row {
+    width: 50%;
+    margin:100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%; 
+    float: right;
+    margin-right: 30px;
+}
+
